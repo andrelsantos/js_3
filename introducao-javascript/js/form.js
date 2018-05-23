@@ -16,6 +16,7 @@ botaoAdicionar.addEventListener("click",function(event){
 
 })
 
+
 function obtemPacienteDoFormulario(form){
 
   var paciente = {
